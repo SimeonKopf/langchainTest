@@ -1,0 +1,6 @@
+toDo.txt
+.env
+poetry.lock
+pyproject.toml
+testOfEnviroment.ipynb
+geminiTest.csv
