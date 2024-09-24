@@ -1,0 +1,51 @@
+question,ground_truth,answer,contexts
+What do dogs love to play?,Placeholder,"Based on the provided context, dogs love to play **fetch**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do dogs love to play?,Placeholder,"Based on the provided context, dogs love to play **fetch**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do dogs love to play?,Placeholder,"Based on the provided context, dogs love to play **fetch**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do dogs love to play?,Placeholder,"Based on the provided context, dogs love to play **fetch**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do dogs love to play?,Placeholder,"According to the provided context, dogs love to play **fetch**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+"What type of dish is pizza, and which country is it associated with?",Placeholder,"Based on the provided context, pizza is a **popular Italian dish**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+"What type of dish is pizza, and which country is it associated with?",Placeholder,"Based on the provided context, pizza is a **popular Italian dish**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+"What type of dish is pizza, and which country is it associated with?",Placeholder,"Based on the provided context, pizza is a **popular Italian dish**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+"What type of dish is pizza, and which country is it associated with?",Placeholder,"Based on the provided context, pizza is a **popular Italian dish**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+"What type of dish is pizza, and which country is it associated with?",Placeholder,"Based on the provided context, pizza is a **popular Italian dish**. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+Who founded SpaceX?,Placeholder,"Elon Musk founded SpaceX. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+Who founded SpaceX?,Placeholder,"Elon Musk founded SpaceX. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+Who founded SpaceX?,Placeholder,"Elon Musk founded SpaceX. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+Who founded SpaceX?,Placeholder,"Elon Musk founded SpaceX. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+Who founded SpaceX?,Placeholder,"Elon Musk founded SpaceX. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do flowers need to grow?,Placeholder,"Flowers need sunlight to grow. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do flowers need to grow?,Placeholder,"Flowers need sunlight to grow. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do flowers need to grow?,Placeholder,"Flowers need sunlight to grow. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do flowers need to grow?,Placeholder,"Flowers need sunlight to grow. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What do flowers need to grow?,Placeholder,"Flowers need sunlight to grow. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What is Python?,Placeholder,"Python is a programming language. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What is Python?,Placeholder,"Python is a programming language. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What is Python?,Placeholder,"Python is a programming language. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What is Python?,Placeholder,"Python is a programming language. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
+What is Python?,Placeholder,"Python is a programming language. 
+","steps__={'context': VectorStoreRetriever(tags=['DocArrayInMemorySearch'], vectorstore=<langchain_community.vectorstores.docarray.in_memory.DocArrayInMemorySearch object at 0x137fe6f10>, search_kwargs={}), 'question': RunnablePassthrough()}"
